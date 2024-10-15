@@ -1,6 +1,9 @@
 # vinca
  Conda recipe generator for ROS packages
 
+> [!NOTE]
+> This branch is a combination of the `snapshots` and `migration` branches for demonstration purposes.
+
 **WARNING**:
 This project is at a super early stage.
 No guarantees everything works.
